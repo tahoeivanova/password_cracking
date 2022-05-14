@@ -1,0 +1,7 @@
+password
+root
+admin
+football
+basketball
+baseball
+admin1234
